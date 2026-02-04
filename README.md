@@ -2,11 +2,14 @@
 
 Arbeidskrav 1: Planlegging og metode
 
-##Verktøy
-Figma: styletyle og wireframes.  
+##Verktøy: Google docs og Figma: styletyle, wireframes og UML-daigram
 
 Lenke: https://www.figma.com/design/5C8ecFPcDgKUYGfzzFWtoE/Potepass---gruppe-10?node-id=0-1&p=f&t=wCRAkZeYFgep79je-0
 
-GitHub Projects.
+GitHub Projects:
 
-GitHub Repository.
+## Arbeidsfordeling
+Herdis: Index-side, søk og favoritter
+Cristine: Hundepasser-side, innlogging og nav/footer
+Anette: Booking-funksjon
+Kristina: Hundepasserprofiler og reviews
